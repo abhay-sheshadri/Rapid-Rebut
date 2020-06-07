@@ -3,7 +3,7 @@ A google chrome extension that marks up rumors and conspiracy theories on websit
 
 ## How to install
 First, clone this repository.
-  Rapid Rebut was made with Python 3.8.  It is recomended that you use Anaconda, a free open-source distribution of Python. 
+  Rapid Rebut was made with Python 3.8.  It is recommended that you use Anaconda, a free open-source distribution of Python. 
 Assuming that you have Anaconda installed, create a virtual environment:
 
 ```
